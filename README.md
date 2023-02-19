@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My personal website**
 
-- 🌱 I’m currently learning **Python, ASP.NET, C#**
+- 🌱 I’m currently learning **Python, ASP.NET, C#, JAVASCRIPT**
 
 - 👯 I’m looking to collaborate on **Open source project for learning**
 
