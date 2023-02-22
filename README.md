@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carmelo J. Rosario</h1>
-<h3 align="center">A beginner full-stack developer</h3>
+<h3 align="center">I'm Web Developer who love to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorrdev&label=Profile%20views&color=0e75b6&style=flat" alt="juniorrdev" /> </p>
 
