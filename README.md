@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" alt="gifhello" width="40" height="40"/> </a>, I'm Carmelo J. Rosario</h1>
+<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)" alt="gifhello" width="40" height="40"/>, I'm Carmelo J. Rosario</h1>
 
 <h3 align="center">I'm Web developer with a hunger for knowledge</h3>
 
