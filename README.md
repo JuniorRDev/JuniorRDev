@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Carmelo J. Rosario</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" height="50px">, I'm Carmelo J. Rosario</h1>
+
 
 <h3 align="center">I'm Web developer with a hunger for knowledge</h3>
 
